@@ -23,12 +23,17 @@ the corresponding article:
 
 ```
 @article{waniek2019tss,
-  url = {https://doi.org/10.1101/543801},
-  year  = {in press},
-  author = {Nicolai Waniek},
+  author = {Waniek, Nicolai},
   title = {Transition scale-spaces: A computational theory for the discretized entorhinal cortex},
-  journal = {Neural Computation},
   publisher = {MIT Press},
+  doi = {10.1162/neco\_a\_01255},
+  note ={PMID: 31835003},
+  journal = {Neural Computation},
+  volume = {0},
+  year = {0},
+  pages = {1-65},
+  url = {https://doi.org/10.1162/neco_a_01255 },
+  eprint = {https://doi.org/10.1162/neco_a_01255}
 }
 ```
 

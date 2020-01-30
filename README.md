@@ -29,9 +29,10 @@ the corresponding article:
   doi = {10.1162/neco\_a\_01255},
   note ={PMID: 31835003},
   journal = {Neural Computation},
-  volume = {0},
-  year = {0},
-  pages = {1-65},
+  volume = {32},
+  number = {2}
+  year = {2020},
+  pages = {330-394},
   url = {https://doi.org/10.1162/neco_a_01255 },
   eprint = {https://doi.org/10.1162/neco_a_01255}
 }
